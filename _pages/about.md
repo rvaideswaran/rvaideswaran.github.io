@@ -6,7 +6,7 @@ subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim Schoo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_rv.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><span style="color:black; font-family:Times New Roman;">Montgomery Knight Building, Office 412.</span> </p>
