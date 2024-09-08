@@ -20,4 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the Daniel Guggenheim School of Aerospace Engineering at Georgia Tech, working under the guidance of [Prof P.K. Yeung](http://reddit.com). (Add bio).
+I am a PhD student at the Daniel Guggenheim School of Aerospace Engineering at Georgia Tech, working with [Prof P.K. Yeung](https://ae.gatech.edu/directory/person/pui-kuen-yeung). (Add bio).
