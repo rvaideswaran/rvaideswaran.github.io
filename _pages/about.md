@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim School of Aerospace Engineering, Georgia Tech</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim School of Aerospace Engineering, Georgia Tech</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p><span style="color:black; font-family:Times New Roman;">Montgomery Knight Building, Office 412.</span> </p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
