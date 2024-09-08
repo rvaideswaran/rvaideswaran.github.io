@@ -9,10 +9,10 @@ profile:
   image: prof_pic_rv.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><span style="color:black; font-family:Times New Roman;">Montgomery Knight 412</span> </p>
-    <p><span style="color:black; font-family:Times New Roman;">Georgia Insitute of Technology</span> </p>
-    <p><span style="color:black; font-family:Times New Roman;">270 Ferst Drive NW, Atlanta, GA 30332, USA</span> </p>
-    <p><span style="color:black; font-family:Times New Roman;">Email: rvaideswaran3@gatech.edu</span> </p>
+    <p>Montgomery Knight 412</p>
+    <p>Georgia Insitute of Technology</p>
+    <p>270 Ferst Drive NW, Atlanta, GA 30332, USA </p>
+    <p>Email: rvaideswaran3@gatech.edu</p>
     
 
 news: true # includes a list of news items
