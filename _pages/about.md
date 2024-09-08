@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim School of Aerospace Engineering, Georgia Tech</a> | rvaideswaran3@gatech.edu
+subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim School of Aerospace Engineering, Georgia Tech</a> 
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>Montgomery Knight 412</p>
     <p>Georgia Insitute of Technology</p>
     <p>270 Ferst Drive NW, Atlanta, GA 30332, USA </p>
+    <p> ✉️ rvaideswaran3@gatech.edu </p>
    
 
 news: true # includes a list of news items
