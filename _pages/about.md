@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student | <a href='https://ae.gatech.edu/'>Daniel Guggenheim School of Aerospace Engineering, Georgia Tech</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
