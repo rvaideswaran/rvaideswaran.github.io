@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Our work employs high-performance computing resources for performing drect numerical simulations (DNS) of turbulence. We are fortunate to have access to two supercomputers, <a href='https://www.olcf.ornl.gov/frontier/'><i>Frontier</i></a> at the Oak Ridge Leadership Computing Facility and <a href='https://tacc.utexas.edu/systems/frontera/'><i>Frontera</i></a> at the Texas Advanced Computing Center (TACC) on which we develop our algorithms. 
+description: Our work employs high-performance computing resources for performing drect numerical simulations (DNS) of turbulence. We are fortunate to have access to two supercomputers, <a href='https://www.olcf.ornl.gov/frontier/'><b>Frontier</b></a> at the Oak Ridge Leadership Computing Facility and <a href='https://tacc.utexas.edu/systems/frontera/'><b>Frontera</b></a> at the Texas Advanced Computing Center (TACC) on which we develop our algorithms. 
 nav: true
 nav_order: 3
-display_categories: [_Frontier_, _Frontera_]
+display_categories: [<i>Frontier</i>, <i>Frontera</i>]
 horizontal: false
 ---
 
