@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our poster **"Lagrangian Particle-Tracking in GPU-Enabled Extreme Scale Turbulence Simulations"** was accepted to be presented at the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24) in Atlanta, GA.
+Our poster **"Lagrangian Particle-Tracking in GPU-Enabled Extreme Scale Turbulence Simulations"** was accepted to be presented at the _International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24)_ in Atlanta, GA.
